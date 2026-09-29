@@ -1,0 +1,9 @@
+## Visual Studio / C# standard gitignore
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
